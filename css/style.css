@@ -20,6 +20,12 @@
     width: 170px;
     border: 1px solid black;
 }
+.swatch.darkGrey {
+    height: 200px;
+    width: 170px;
+    border: 1px solid black;
+    background-color: #545454;
+}
 .hexCode {
     padding: 15px;
     text-align: center;
